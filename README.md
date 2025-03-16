@@ -1,6 +1,6 @@
 # Naive Obsidian Markdown Nodenetwork something something
 
-This "tool" was created because I had an idea about building some sort of naive Graph network in Python and spit out it as a Markdown representation to be used within Obsidian.
+This "tool" was created because I had an idea about building some sort of naive Graph network in Python and render the network as a Markdown representation to be used as a Vault within Obsidian.
 
 # Installation
 
