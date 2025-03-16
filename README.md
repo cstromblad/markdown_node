@@ -8,4 +8,8 @@ Ha, as if. There's no installation. Clone the repo, that's it.
 
 # Usage
 
-Well, have a look at the client.py file to see how I 
+Well, have a look at the client.py file to see how I've implemented it. And if you want to generate the network you do this:
+
+`$ uv run client.py`
+
+This will output the data into `data/test-network` and that's it. Enjoy!
